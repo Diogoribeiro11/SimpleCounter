@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+ 
+body {
+    background-color: black;
+}
+
+.container{
+    margin: auto;
+    width: 600px;
+    height: 200px;
+    background-color: beige;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container h1 {
+    float: right;
+    font-size: 150px;
+}
